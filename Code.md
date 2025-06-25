@@ -1,4 +1,4 @@
-# コード
+# Code
 ## ソースコード
 ```dart
 import 'package:flutter/material.dart';
